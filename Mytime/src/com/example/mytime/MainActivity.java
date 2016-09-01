@@ -17,7 +17,7 @@ public class MainActivity extends Activity {
 	Button startButton;
 	EditText minuteText;
 	EditText secondText;
-	int minute;
+	int minute = 0;
 	int second;
 	
 	@Override
